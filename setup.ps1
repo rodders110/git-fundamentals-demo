@@ -1,3 +1,2 @@
-#This is a source file
-#
-# It is very lovely
+Set-Location c:\Windows
+Get-ChildItem

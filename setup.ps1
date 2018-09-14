@@ -1,2 +1,2 @@
-cd 'c:\windows'
-ls
+Set-Location 'c:\windows'
+Get-ChildItem

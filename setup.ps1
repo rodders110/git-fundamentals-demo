@@ -1,1 +1,2 @@
 cd 'c:\windows'
+ls

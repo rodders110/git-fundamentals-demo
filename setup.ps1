@@ -1,2 +1,2 @@
 cd c:\windows
-ls
+Get-ChildItem

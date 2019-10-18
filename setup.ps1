@@ -1,1 +1,1 @@
-gci c:\windows
+Get-ChildItem c:\windows\system32

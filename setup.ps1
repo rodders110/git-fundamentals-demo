@@ -1,1 +1,1 @@
-cd c:\windows
+gci c:\windows

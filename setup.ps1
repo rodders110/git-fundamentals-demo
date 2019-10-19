@@ -1,1 +1,8 @@
-gci c:\windows | Out-File setup.log
+Write-Host "___________"
+Write-Host "< thank you >"
+Write-Host " -----------"
+Write-Host "        \   ^__^"
+Write-Host "         \  (oo)\_______"
+Write-Host "            (__)\       )\/\"
+Write-Host "                ||----w |"
+Write-Host "                ||     ||"
